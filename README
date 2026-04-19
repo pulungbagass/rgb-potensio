@@ -123,4 +123,4 @@ void loop() {
   setColor(r, g, b);
 
   delay(10);
-}
+}```
